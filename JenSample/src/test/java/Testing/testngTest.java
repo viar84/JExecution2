@@ -1,7 +1,6 @@
 package Testing;
 
 import org.testng.annotations.Test;
-
 public class testngTest
 {
 	@Test
@@ -10,6 +9,8 @@ public class testngTest
 		System.out.println("Testting");
 		System.out.println("updated");
 		System.out.println("welcome");
+		System.out.println(System.getProperty("browser"));
+		System.out.println(System.getProperty("url"));
 	}
 
 }
