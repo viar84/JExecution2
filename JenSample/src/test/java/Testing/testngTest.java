@@ -8,7 +8,7 @@ public class testngTest
 	{
 		System.out.println("Testting");
 		System.out.println("updated");
-		System.out.println("welcome");
+		System.out.println("welcome1");
 		System.out.println(System.getProperty("browser"));
 		System.out.println(System.getProperty("url"));
 	}
