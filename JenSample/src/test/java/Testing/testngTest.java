@@ -9,6 +9,7 @@ public class testngTest
 	{
 		System.out.println("Testting");
 		System.out.println("updated");
+		System.out.println("updated1");
 	}
 
 }
