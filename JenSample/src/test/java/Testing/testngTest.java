@@ -8,6 +8,7 @@ public class testngTest
 	public void sampleTest()
 	{
 		System.out.println("Testting");
+		System.out.println("updated");
 	}
 
 }
